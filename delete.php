@@ -37,7 +37,7 @@ if ( $row === false ) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to Autos Database</title>
+    <title>82905794</title>
     <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
